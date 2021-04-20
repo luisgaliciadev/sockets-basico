@@ -1,6 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Servidor con node.js y express.js
+
+Desarrollo de funcionamiento basico de sockets.io
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
